@@ -12,4 +12,4 @@ Insufficient Authorization: She detects where user roles are not properly enforc
 Horizontal and vertical privilege escalation: to identify the vulnerabilities can made the hack#r made privileges 
 
 
-** This is just an intro that we can made some useful operations using this Authorize **
+**This is just an intro that we can made some useful operations using this Authorize**
