@@ -10,3 +10,6 @@ IDOR: Is where the attacker can make inputs and get into the data part where it 
 Forced Browsing: She can help see the cases where the attacker can enter to restricted areas of the application by manipulation the URLs.
 Insufficient Authorization: She detects where user roles are not properly enforced.
 Horizontal and vertical privilege escalation: to identify the vulnerabilities can made the hack#r made privileges 
+
+
+** This is just an intro that we can made some useful operations using this Authorize **
